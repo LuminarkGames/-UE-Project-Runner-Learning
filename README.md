@@ -7,12 +7,9 @@ Vous pouvez télécharger ce projet réalisé avec Unreal Engine pour tester et 
 
 Il y a une vidéo qui permet de présenter le développement, et une autre d'1h pour montrer toute la réalisation.
 
-Vidéo de présentation :
-
-Vidéo brute d'1h :
-
+Vidéo de présentation : https://youtu.be/7P-JGgFVK-M
+Vidéo brute d'1h : https://youtu.be/d6-RWOEZgdY
 Tester le jeu sur Itch.io : https://luminarkgames.itch.io/runner-learning
-
 Tester le jeu sur GameJolt : https://gamejolt.com/games/RunnerLearning/500962
 
 Me suivre sur Twitter : https://twitter.com/LuminarkGames
